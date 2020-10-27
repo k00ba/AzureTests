@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'kuba-test-webapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9c679005652143058a73857ed0482327 }}
+        publish-profile: ${{ secrets.PublishProfile_9c679005652143058a745678987654 }}
