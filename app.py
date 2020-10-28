@@ -21,5 +21,3 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-# {"data":[{"email":"jakub.dabkowski+testb2b_1@avaus.com", "status":"tak"},
-# {"email":"jakub.dabkowski+testb2b_2@avaus.com", "status":"nie"}]}
